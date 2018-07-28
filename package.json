@@ -12,5 +12,9 @@
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject"
+  },
+  "engine": {
+    "npm": "6.1.0",
+    "node": "10.5.0"
   }
 }
